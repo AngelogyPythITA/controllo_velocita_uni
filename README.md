@@ -1,6 +1,6 @@
 # Controllo di Velocità di un Motore DC con PID
 
-Questo repository contiene il firmware (Arduino) e gli script di analisi (MATLAB) per un progetto di modellistica e controllo di un motore in corrente continua (DC). 
+Questo repository contiene il firmware (Arduino) e gli script di analisi (MATLAB) per un progetto di modellistica e controllo di un motore in corrente continua (DC) per l'esame di Controlli Automatici.
 
 L'obiettivo del progetto è identificare il modello matematico del sistema fisico, implementare un anello di retroazione e mantenere una velocità di rotazione costante al variare del carico applicato.
 
